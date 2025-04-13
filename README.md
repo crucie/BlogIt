@@ -40,7 +40,7 @@ BlogIt is a full-featured Blogging platform that allows users to create, edit, a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/BlogIt.git
+   git clone https://github.com/crucie/BlogIt.git
    cd BlogIt
    ```
 
