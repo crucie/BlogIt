@@ -1,17 +1,17 @@
-# blogIt
+# BlogIt
 
-A modern blogging platform built with React.js and Appwrite, featuring a rich text editor and seamless state management.
+A modern Blogging platform built with React.js and Appwrite, featuring a rich text editor and seamless state management.
 
 ![blogIt Logo](/api/placeholder/400/200) 
 
 ## 📋 Overview
 
-blogIt is a full-featured blogging platform that allows users to create, edit, and share blog posts with a rich text editing experience. The application leverages React.js for the frontend, Appwrite for backend services, and Redux for state management.
+BlogIt is a full-featured Blogging platform that allows users to create, edit, and share Blog posts with a rich text editing experience. The application leverages React.js for the frontend, Appwrite for backend services, and Redux for state management.
 
 ## ✨ Features
 
 - **User Authentication**: Secure signup, login, and profile management
-- **Rich Text Editor**: Advanced blog creation with TinyMCE
+- **Rich Text Editor**: Advanced Blog creation with TinyMCE
 - **Comment System**: Engage with readers through comments
 - **Responsive Design**: Optimized for all devices
 - **Categories & Tags**: Organize content effectively
@@ -40,8 +40,8 @@ blogIt is a full-featured blogging platform that allows users to create, edit, a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/blogIt.git
-   cd blogIt
+   git clone https://github.com/yourusername/BlogIt.git
+   cd BlogIt
    ```
 
 2. Install dependencies:
@@ -68,7 +68,7 @@ blogIt is a full-featured blogging platform that allows users to create, edit, a
 ## 📁 Project Structure
 
 ```
-blogIt/
+BlogIt/
 ├── public/
 ├── src/
 │   ├── assets/
@@ -80,7 +80,7 @@ blogIt/
 │   ├── config/
 │   ├── features/
 │   │   ├── auth/
-│   │   ├── blog/
+│   │   ├── Blog/
 │   │   ├── comments/
 │   │   └── user/
 │   ├── pages/
@@ -102,11 +102,11 @@ blogIt/
 
 1. Create a new project in the Appwrite console
 2. Set up the following collections:
-   - `posts`: To store blog posts
+   - `posts`: To store Blog posts
    - `users`: To store user profiles
    - `comments`: To store post comments
 3. Configure appropriate permissions for collections
-4. Create storage bucket for blog images
+4. Create storage bucket for Blog images
 
 ### TinyMCE Setup
 
@@ -149,7 +149,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Amay Mishra- [@kshimate](https://twitter.com/kshimate) - amaymishra100@gmail.com
 
-Project Link: [https://github.com/crucie/blogIt](https://github.com/crucie/blogIt)
+Project Link: [https://github.com/crucie/BlogIt](https://github.com/crucie/BlogIt)
 
 ## 🙏 Acknowledgements
 
